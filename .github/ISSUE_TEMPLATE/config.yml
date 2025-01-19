@@ -3,4 +3,4 @@ contact_links: []
 
 # 기본 템플릿 설정
 default:
-  - feature_request.md
+  - feature.md
